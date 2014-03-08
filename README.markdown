@@ -7,7 +7,7 @@ sqsdrain is a Go package that removes all messages from an SQS queue. It's incre
 
 Run the following command from your terminal: 
 
-	go get http://github.com/anandkunal/sqsdrain
+	go get github.com/anandkunal/sqsdrain
 
 This package requires goamz, particularly the repository managed by CrowdMob. You can get that dependency by executing the following terminal commands:
 
